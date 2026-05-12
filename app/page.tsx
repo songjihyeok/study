@@ -46,7 +46,7 @@ export default function StudyLanding() {
             <span className="inline-flex w-7 h-7 rounded-full bg-paper-800 text-paper-50 items-center justify-center">
               <Icon icon="solar:users-group-rounded-bold" className="text-[15px]" />
             </span>
-            <span>같이끝내다</span>
+            <span>같이 끝내다</span>
           </a>
           <div className="hidden md:flex items-center gap-5 text-paper-500">
             <a href="#problem" className="hover:text-paper-800 transition">왜 필요한가</a>
