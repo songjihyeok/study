@@ -18,7 +18,7 @@ export default function Home() {
 
           <div className="mt-2 flex w-full flex-col gap-3 sm:flex-row sm:justify-center">
             <a
-              href="/dashboard"
+              href="/study"
               className="inline-flex h-12 items-center justify-center rounded-full border px-6 text-sm sm:w-40"
             >
               시작하기
